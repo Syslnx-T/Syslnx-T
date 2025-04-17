@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m Syslnx, a System Administrator focused on building and securing scalable infrastructure. My work spans:<br><br>Data Center Ops: Hardware provisioning, monitoring, and disaster recovery.<br><br>Virtualization: Deploying/managing VMs (VMware/Proxmox) for high-availability workloads.<br><br>Security: Hardening systems, compliance audits, and AD Group Policies.<br><br>Automation: Scripting (PowerShell/Python) to streamline repetitive tasks.<br><br>Passionate about infrastructure-as-code (IaC), CI/CD pipelines, and optimizing systems for reliability. Open to collaborations!
+Hi! I’m Syslnx, a System Administrator focused on building and securing scalable infrastructure. My work spans:<br><br>Data Center Ops: Hardware provisioning, monitoring, and disaster recovery.<br><br>Virtualization: Deploying/managing VMs (VMware/Proxmox) for high-availability workloads.<br><br>Security: Hardening systems, compliance audits, and AD Group Policies.<br><br>Automation: Scripting (PowerShell/Python) to streamline repetitive tasks.<br><br>Passionate about infrastructure-as-code (IaC), CI/CD pipelines, and optimizing systems for reliability. I learning Cybersecurity and most to the time I'm playing CTF on Hack the Box.
 
 
 ## 🌐 Socials:
